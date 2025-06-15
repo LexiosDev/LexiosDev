@@ -89,7 +89,7 @@ Me chamo Luan dos Santos Lima, tenho 19 anos e sou natural de Fortaleza–CE. Co
 ---
 
 ### 📈 Meus status
-(https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=Luandslima&show_icons=true&theme=radical)
 
 ---
 
