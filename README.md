@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Luands
 
-**`Desenvolvedor Front-end`**
+### 🖼️ Desenvolvedor Front-end
 
 Me chamo Luan dos Santos Lima, tenho 19 anos e sou natural de Fortaleza–CE. Concluí o ensino médio em uma Escola Estadual de Educação Profissional (EEEP), com formação técnica em Informática e pretendo fazer Engenharia de Software. Atualmente, estou estudando back-end com o objetivo de me tornar um desenvolvedor full-stack e seguir carreira como indie hacker. 
 
@@ -88,7 +88,8 @@ Me chamo Luan dos Santos Lima, tenho 19 anos e sou natural de Fortaleza–CE. Co
 
 ---
 
-![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
+### 📈 Meus status
+(https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
 
 ---
 
