@@ -5,13 +5,8 @@
   👩🏻‍💻 LexiosDev
 </p>
 
-<p align="center" style="margin-top: 11;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=900&color=6e7781&center=true&width=800&lines=
-  Fullstack Developer;
-  Indie hacker;
-  Code. Ship. Repeat.;
-  Building in public;
-  Coding the future;" alt="Typing Animation" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=900&color=6e7781&center=true&width=800&lines=Fullstack+Developer;Indie+hacker;Code.+Ship.+Repeat.;Building+in+public;Coding+the+future" alt="Typing Animation" />
 </p>
 
 ---
