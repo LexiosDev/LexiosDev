@@ -5,8 +5,6 @@
 </p>
 ---
 
----
-
 ### 🖼️ Desenvolvedor Full-stack
 
 Sou um desenvolvedor full-stack com foco em construir aplicações modernas, eficientes e escaláveis, utilizando as melhores práticas do ecossistema web atual. Busco constantemente evoluir em tecnologias front-end e back-end, com o objetivo de criar produtos robustos e impactantes — seja contribuindo em times de tecnologia ou liderando iniciativas próprias.
