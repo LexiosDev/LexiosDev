@@ -2,7 +2,7 @@
 
 
 <h1 align="center" style="font-family: 'Fira Code', monospace; color: #6e7781; margin-bottom: 8px; line-height: 1.2;">
-  👩🏻‍💻 LexiosDev
+  👩🏻‍💻✨ LexiosDev ✨🚀
 </h1>
 
 <p align="center">
