@@ -1,13 +1,13 @@
 
 
 
-<p align="center" style="font-family: 'Fira Code', monospace; font-size: 106px; color: #6e7781; margin-bottom: 8px; line-height: 1.2;">
+<h1 align="center" style="font-family: 'Fira Code', monospace; color: #6e7781; margin-bottom: 8px; line-height: 1.2;">
   👩🏻‍💻 LexiosDev
-</p>
+</h1>
 
 <p align="center">
   <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=900&color=6e7781&center=true&width=800&lines=Fullstack+Developer;Indie+hacker;Code.+Ship.+Repeat.;Building+in+public;Coding+the+future" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=32&pause=900&color=6e7781&center=true&width=800&lines=Fullstack+Developer;Indie+hacker;Code.+Ship.+Repeat.;Building+in+public;Coding+the+future" />
 </p>
 
 
